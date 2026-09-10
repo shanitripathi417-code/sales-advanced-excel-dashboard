@@ -1,0 +1,12 @@
+*.py
+requirements.txt
+.venv/
+__pycache__/
+_prelude.py
+_sheet_*.py
+build_workbook*.py
+generate_screenshots.py
+artifacts/frames/
+artifacts/concat.txt
+artifacts/stats.json
+.DS_Store
